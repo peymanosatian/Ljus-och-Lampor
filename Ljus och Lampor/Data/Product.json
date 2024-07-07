@@ -1,0 +1,98 @@
+[
+  {
+    "id" : 1,
+    "name" : "Asteria Table lamp",
+    "image" : "Lamp1",
+    "price" : 279,
+    "description" : "Built-in LED panel with diffuser ensures soft and uniform illumination throughout the room.Sleek, modern design highlighted by a brass stem that adds a touch of elegance.Hidden USB port allows for convenient phone charging, even when the light is off.",
+    "color" : [
+      0.61,
+      0.8,
+      0.89
+    ]
+  },
+  {
+    "id" : 2,
+    "name" : "Karl-Johan Table lamp",
+    "image" : "Lamp2",
+    "price" : 231,
+    "description" : "The table lamp by New Works has exclusive, natural materials that blends harmoniously into the setting. The lamp is mushroom shaped and has softly curved forms which provides a soft andsuffused light.",
+    "color" : [
+      0.97,
+      0.87,
+      0.49
+    ]
+  },
+  {
+    "id" : 3,
+    "name" : "Snoopy Table Lamp",
+    "image" : "Lamp3",
+    "price" : 1078,
+    "description" : "Table lamp by Flos with a modern design with an enamelled reflector in metal and a lamp base in marble perfect for all rooms where you want direct lighting. It has a switch on the lamp base with dimmer function.",
+    "color" : [
+      0.53,
+      0.82,
+      0.63
+    ]
+  },
+  {
+    "id" : 4,
+    "name" : "Night Owl Table Lamp",
+    "image" : "Lamp4",
+    "price" : 269,
+    "description" : "Table lamp by Fritz Hansen with a unique design with a conical lamp base, an oval lampshade in aluminium and nature inspired colours. It has a lampshade with four different positions and a black cable on the lamp base. The table lamp has a pleasant, downward light perfect for creating a cosy atmosphere in any room.",
+    "color" : [
+      1,
+      0.56,
+      0.63
+    ]
+  },
+  {
+    "id" : 5,
+    "name" : "Olle Table Lamp",
+    "image" : "Lamp5",
+    "price" : 169,
+    "description" : "Olle is a table lamp from Bsweden, designed by Olle Andersson. The lamp has two geometric elements, a cylinder and a cone in white opal glass. The light from the cylinder flows through the cone and shines from top to bottom.",
+    "color" : [
+      0.74,
+      0.65,
+      0.5
+    ]
+  },
+  {
+    "id" : 7,
+    "name" : "Flowerpot VP9",
+    "image" : "Lamp7",
+    "price" : 170,
+    "description" : "Table lamp by &tradition with an elegant, portable design with contemporary colours and a slightly smaller size to easily move around at home. It has a hemispherical, upper lampshade with a built-in LED and a warm white, pleasant light to create a cosy atmosphere. The lamp has a three-step dimmer on the lampshade to allow the regulation of light brightness.",
+    "color" : [
+      0.64,
+      0.51,
+      0.67
+    ]
+  },
+  {
+    "id" : 6,
+    "name" : "Slant Table Lamp",
+    "image" : "Lamp6",
+    "price" : 304,
+    "description" : "The table lamp by Hay has an uncluttered, Japanese design perfect to have at home as well as at the office. The lamp has a beautiful, round screen in cast aluminium with an elegant, matte finish. It has a slightly, angled base with lovely weight and",
+    "color" : [
+      0.75,
+      0.75,
+      0.8
+    ]
+  },
+  {
+    "id" : 8,
+    "name" : "Eddy Table Lamp EU",
+    "image" : "Lamp8",
+    "price" : 635,
+    "description" : "Eddy Table Lamp by Normann Copenhagen combines Italian marble with steel and brass details. The natural marble creates a lively expression while the table lamp emits a soft light that creates a calm and atmospheric feeling. The flat steel lampshade is facing downwards, which means that the lamp not only illuminates the surroundings but also itself. The light can be adjusted with a brass dimmer.",
+    "color" : [
+      0.35,
+      0.35,
+      0.4
+    ]
+  }
+]

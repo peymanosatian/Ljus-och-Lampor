@@ -1,0 +1,82 @@
+[
+    {
+      "id" : 1,
+      "name" : "lighting",
+      "image" : "Light"
+    },
+    {
+      "id" : 2,
+      "name" : "Serving",
+      "image" : "Plat"
+    },
+    {
+      "id" : 3,
+      "name" : "Furnishing",
+      "image" : "Bench"
+    },
+    {
+      "id" : 4,
+      "name" : "Furniture",
+      "image" : "Arm"
+    },
+    {
+      "id" : 5,
+      "name" : "Kitchen",
+      "image" : "Hood"
+    },
+    {
+      "id" : 6,
+      "name" : "Bedroom",
+      "image" : "Bed"
+    },
+    {
+      "id" : 7,
+      "name" : "Textile",
+      "image" : "Textile"
+    },
+    {
+      "id" : 8,
+      "name" : "Outdoor",
+      "image" : "Outdoor"
+    },
+    {
+      "id" : 9,
+      "name" : "Carpet",
+      "image" : "Carpet"
+    },
+    {
+      "id" : 10,
+      "name" : "Livingroom",
+      "image" : "Cabin"
+    },
+    {
+      "id" : 11,
+      "name" : "Toilet",
+      "image" : "Toilet"
+    },
+    {
+      "id" : 12,
+      "name" : "Garden",
+      "image" : "aaa"
+    },
+    {
+      "id" : 13,
+      "name" : "Us",
+      "image" : "Info"
+    },
+    {
+      "id" : 14,
+      "name" : "News",
+      "image" : "News"
+    },
+    {
+      "id" : 15,
+      "name" : "Outlet",
+      "image" : "Outlet"
+    },
+    {
+      "id" : 16,
+      "name" : "Inspiration",
+      "image" : "Mind"
+    }
+  ]
